@@ -1,5 +1,7 @@
 # bun-test
 
+nothing fancy i'm just playing around with the bun runtime
+
 To install dependencies:
 
 ```bash
